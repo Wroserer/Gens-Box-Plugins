@@ -1,6 +1,6 @@
 # Gens-Box-Plugins
 A list with downloads for all plugins that are good for gens/box servers!
-
+This list is for 1.20.1 servers.
 
 
 
